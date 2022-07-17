@@ -1,9 +1,9 @@
 
-num1 = 1.1
-num2 = 2.2
-num3 = 3.3
+numa = 1.1
+numb = 2.2
+numc = 3.3
 
-sum = num1 + num2 + num3
-multi = num1*num2*num3
+sum = numa + numb + numc
+multi = numa*numb*numc
 
 print("Sum is", sum, "multiplication is", multi)
